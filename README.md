@@ -1,8 +1,8 @@
 ## Hi 👋, I'm Wilson and my Chinese name is 張宸瑋
 
-### 💻   I’m currently studing at National Dong Hwa University, major in Computer Science and Information Engineering 
+#### 💻   I’m currently studing at National Dong Hwa University, major in Computer Science and Information Engineering 
 
-### 📓   I’m currently learning Machine Learning, Swift and EEG
+#### 📓   I’m currently learning Machine Learning, Swift and EEG
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
@@ -11,7 +11,7 @@
 
 
 
-### 📫   How to reach me:
+### 📫   Contact:
 ####    📧Email: wilson891221@gmail.com
 ####    📊Facebook: [Click](https://www.facebook.com/profile.php?id=100007509667977)
 ####    📃linkedin: [Click](https://www.linkedin.com/in/wilson-chang-30994720a/?msgControlName=reply_to_sender&msgConversationId=2-MmI5MDVhZmMtNmFlZi00NTI5LWE0ZTEtNjVjOWFjMzMxNTZmXzAxMg%3D%3D&msgOverlay=true)
