@@ -1,4 +1,5 @@
 ### 💻I’m currently studing at National Dong Hwa University, Computer Science and Information Engineering
+###🌱 I’m currently learning Machine Learning, Swift and EEG
 ### 📫 How to reach me:
 #### 📧Email: wilson891221@gmail.com
 #### 📊Facebook: https://www.facebook.com/profile.php?id=100007509667977
