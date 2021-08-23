@@ -1,5 +1,5 @@
 ### 💻I’m currently studing at National Dong Hwa University, Computer Science and Information Engineering
-
+### 📫 How to reach me: wilson891221@gmail.com
 <!--
 **Wilson891221/Wilson891221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
