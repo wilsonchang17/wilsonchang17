@@ -1,6 +1,19 @@
 ## Hi 👋, I'm Wilson
 ### 💻   I’m currently studing at National Dong Hwa University, Computer Science and Information Engineering
 ### 📓   I’m currently learning Machine Learning, Swift and EEG
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wilson891221&label=Profile%20views&color=0e75b6&style=flat" alt="wilson891221" /> </p>
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/Wilson891221"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Wilson891221" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wilson891221&show_icons=true&locale=en&layout=compact" alt="wilson891221" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wilson891221&show_icons=true&locale=en" alt="wilson891221" /></p>
+
 ### 📫   How to reach me:
 ####    📧Email: wilson891221@gmail.com
 ####    📊Facebook: https://www.facebook.com/profile.php?id=100007509667977
