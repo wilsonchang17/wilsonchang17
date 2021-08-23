@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wilson891221</h1>
+##Hi 👋, I'm Wilson891221
 ### 💻   I’m currently studing at National Dong Hwa University, Computer Science and Information Engineering
 ### 📓   I’m currently learning Machine Learning, Swift and EEG
 ### 📫   How to reach me:
