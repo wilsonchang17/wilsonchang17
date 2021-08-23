@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Wilson and my Chinese name is 張宸瑋
 
-### 💻   I’m currently studing at National Dong Hwa University, major inComputer Science and Information Engineering 
+### 💻   I’m currently studing at National Dong Hwa University, major in Computer Science and Information Engineering 
 
 ### 📓   I’m currently learning Machine Learning, Swift and EEG
 
