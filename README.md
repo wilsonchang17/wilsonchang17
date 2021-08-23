@@ -1,4 +1,4 @@
-## Hi 👋, I'm Wilson
+## Hi 👋, I'm Wilson and my Chinese name is 張宸瑋
 
 ### 💻   I’m currently studing at National Dong Hwa University, Computer Science and Information Engineering 
 
