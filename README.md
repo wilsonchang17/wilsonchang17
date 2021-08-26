@@ -1,9 +1,9 @@
 ## Hi 👋, I'm Wilson 張宸瑋
 
-### 💻   I’m currently studing at National Dong Hwa University, major in Computer Science and Information Engineering 
+### 💻   Studing at National Dong Hwa University, major in Computer Science and Information Engineering 
 ---
 
-### 📓   I’m currently learning Machine Learning, Swift and EEG
+### 📓   Crrently learning Machine Learning, Swift and EEG
 ---
 
 #### Languages and Tools:
