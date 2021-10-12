@@ -3,7 +3,7 @@
 ### 💻   Studing at National Dong Hwa University, major in Computer Science and Information Engineering 
 ---
 
-### 📓   Crrently learning Machine Learning, Swift and EEG
+### 📓   Crrently learning Machine Learning and Swift 
 ---
 ### 📫   Contact:
 ####    📧Email: wilson891221@gmail.com
