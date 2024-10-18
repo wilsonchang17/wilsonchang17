@@ -1,4 +1,5 @@
-## Hi 👋, I'm Wilson 張宸瑋
+## Hi 👋, I'm Chen-Wei (Wilson)
+
 
 ### 💻   MS @ Virginia Tech | Research Assistant
 ###     Contact me:
